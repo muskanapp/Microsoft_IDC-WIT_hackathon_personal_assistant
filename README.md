@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://www.youtube.com/watch?v=hRtJoRkALaU&t=0s">YOUTUBE LINK FOR THE PITCH</a></h3>
 
 <p align="center">
-  <img src="https://github.com/muskanapp/IDC-WIT-Personal-Assistant/blob/master/assets/download.png" />
+  <img src="https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/download.png" />
 </p>
 
 ## 📝 Table of Contents
