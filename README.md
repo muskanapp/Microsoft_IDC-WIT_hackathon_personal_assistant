@@ -54,7 +54,7 @@ The heath focussed features are as follows:-
 
 ## 🧢 Demo/Working Model <a name="demo"></a>
 
-![demo gif](https://github.com/muskanapp/IDC-WIT-Personal-Assistant/blob/master/assets/app_demo.gif)
+![demo gif](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/app_demo.gif)
 
 The link to the deployed webapp-[personal-assistant](https://muskan-pa.netlify.app/)
 
@@ -73,11 +73,11 @@ This app has been built using the MERN stack, mostly REACT and a little bit of F
 
 <h3>The dashboard displaying the bar chart for sleep cycle and pie chart for productivity</h3>
 
-![dashboard](https://github.com/muskanapp/IDC-WIT-Personal-Assistant/blob/master/assets/Screenshot_1.png)
+![dashboard](/blob/master/assets/Screenshot_1.png)
 
 <h3>The to-do app</h3>
 
-![to-do](<https://github.com/muskanapp/IDC-WIT-Personal-Assistant/blob/master/assets/Screenshot%20(47).png>)
+![to-do](</blob/master/assets/Screenshot%20(47).png>)
 
 <h3>The table of events</h3>
 
@@ -96,7 +96,7 @@ This app has been built using the MERN stack, mostly REACT and a little bit of F
 
 - The site works on all the web browsers.
 
-## 🤓 Future Work
+## 🤓 Future Work <a name = "future_work"></a>
 
 - Notifications can be sent to the user reminding them of timely meals and breaks
 - Integration of the web app with smart-watch can be a large scale future work which would need authorization from the side of manufacturers
