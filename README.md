@@ -83,7 +83,7 @@ This app has been built using the MERN stack, mostly REACT and a little bit of F
 
 ![table](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Screenshot_56.png)
 
-## 🔳 Architecture <a name="architecture"></a>
+## 🔳 Architecture Design<a name="architecture_design"></a>
 
 ![architecture](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Architecture.png)
 
