@@ -77,7 +77,7 @@ This app has been built using the MERN stack, mostly REACT and a little bit of F
 
 <h3>The to-do app</h3>
 
-![to-do](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Screenshot%20(47).png>)
+![to-do](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Screenshot%20(47).png)
 
 <h3>The table of events</h3>
 
