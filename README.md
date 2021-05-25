@@ -77,7 +77,7 @@ This app has been built using the MERN stack, mostly REACT and a little bit of F
 
 <h3>The to-do app</h3>
 
-![to-do](</blob/master/assets/Screenshot%20(47).png>)
+![to-do](/blob/master/assets/Screenshot%20(47).png>)
 
 <h3>The table of events</h3>
 
