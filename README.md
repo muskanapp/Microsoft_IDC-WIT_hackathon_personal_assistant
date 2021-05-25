@@ -73,19 +73,19 @@ This app has been built using the MERN stack, mostly REACT and a little bit of F
 
 <h3>The dashboard displaying the bar chart for sleep cycle and pie chart for productivity</h3>
 
-![dashboard](/blob/master/assets/Screenshot_1.png)
+![dashboard](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Screenshot_1.png)
 
 <h3>The to-do app</h3>
 
-![to-do](/blob/master/assets/Screenshot%20(47).png>)
+![to-do](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Screenshot%20(47).png>)
 
 <h3>The table of events</h3>
 
-![table](https://github.com/muskanapp/IDC-WIT-Personal-Assistant/blob/master/assets/Screenshot_56.png)
+![table](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Screenshot_56.png)
 
 ## 🔳 Architecture <a name="architecture"></a>
 
-![architecture](https://github.com/muskanapp/IDC-WIT-Personal-Assistant/blob/master/assets/Architecture.png)
+![architecture](https://github.com/muskanapp/Microsoft_IDC-WIT_hackathon_personal_assistant/blob/master/assets/Architecture.png)
 
 ## ⛏️ Debugging and Maintanence <a name="debugging_and_maintanence"></a>
 
